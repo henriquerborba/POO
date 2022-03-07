@@ -1,0 +1,16 @@
+\\wsl.localhost\Arch\home\henrique\projects\POO\bin\Debug\net5.0\POO.exe
+\\wsl.localhost\Arch\home\henrique\projects\POO\bin\Debug\net5.0\POO.deps.json
+\\wsl.localhost\Arch\home\henrique\projects\POO\bin\Debug\net5.0\POO.runtimeconfig.json
+\\wsl.localhost\Arch\home\henrique\projects\POO\bin\Debug\net5.0\POO.runtimeconfig.dev.json
+\\wsl.localhost\Arch\home\henrique\projects\POO\bin\Debug\net5.0\POO.dll
+\\wsl.localhost\Arch\home\henrique\projects\POO\bin\Debug\net5.0\ref\POO.dll
+\\wsl.localhost\Arch\home\henrique\projects\POO\bin\Debug\net5.0\POO.pdb
+\\wsl.localhost\Arch\home\henrique\projects\POO\obj\Debug\net5.0\POO.csproj.AssemblyReference.cache
+\\wsl.localhost\Arch\home\henrique\projects\POO\obj\Debug\net5.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Arch\home\henrique\projects\POO\obj\Debug\net5.0\POO.AssemblyInfoInputs.cache
+\\wsl.localhost\Arch\home\henrique\projects\POO\obj\Debug\net5.0\POO.AssemblyInfo.cs
+\\wsl.localhost\Arch\home\henrique\projects\POO\obj\Debug\net5.0\POO.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Arch\home\henrique\projects\POO\obj\Debug\net5.0\POO.dll
+\\wsl.localhost\Arch\home\henrique\projects\POO\obj\Debug\net5.0\ref\POO.dll
+\\wsl.localhost\Arch\home\henrique\projects\POO\obj\Debug\net5.0\POO.pdb
+\\wsl.localhost\Arch\home\henrique\projects\POO\obj\Debug\net5.0\POO.genruntimeconfig.cache
